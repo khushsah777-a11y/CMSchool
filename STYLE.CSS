@@ -1,5 +1,2 @@
-h1{
-    transition:aqua;
-}h2{
-    transition: aqua;
-}
+h1{text-align:center;position:fixed; color:black;transition: background-color 0.7}
+h2{text-align:center;position:fixed; color:black;transition: background-color 0.7}
