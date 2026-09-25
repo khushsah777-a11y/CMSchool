@@ -3,8 +3,21 @@
     margin:0px;
     padding:0px;
 }
+header{
+  background-image: 
+    linear-gradient(rgba(255, 255, 255, 0.5), rgba(255, 255, 255, 0.5)), 
+    url("dest-janaki-mandir.jpg");
+        background-size: cover;
+    background-position:center;
+    min-height: 100vh;
+    text-align: center;
+    padding:20px;
+    color:aquamarine;
+  
+  background-size: cover;
+  background-position: center;
+}
 .hero-header{
-    background-image:url("dest-janaki-mandir.jpg");
     background-size: cover;
     background-position:center;
     min-height: 100vh;
