@@ -1,2 +1,14 @@
-h1{text-align:center;position:fixed; color:black;transition: background-color 0.7}
-h2{text-align:center;position:fixed; color:black;transition: background-color 0.7}
+img{
+    height:50pxpx; text-align: left; background-color:aliceblue;
+}
+section{
+    text-align:right;
+}
+table,th{
+    background-image:url(dest-janaki-mandir.jpg) ;
+}
+h1{position:fixed; color:aqua;transition: background-color 0.7}
+h2{position:fixed; color:aqua;transition: background-color 0.7}
+p1{
+    text-align: right;
+}
