@@ -33,7 +33,14 @@ background-position: center;
 justify-content: center;
 margin:40px;
 }
-div{background-image: url("dest-janaki-mandir.jpg");
+div{background-image:
+    linear-gradient(rgba(255, 255, 255, 0.6), rgba(255, 255, 255, 0.6)), 
+    url("dest-janaki-mandir.jpg");
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+  padding: 20px 20px 50px 20px;
+  text-align: center;
 .school-logo{
     height: 120px;
     width: auto;
