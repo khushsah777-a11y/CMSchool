@@ -1,37 +1,19 @@
 *{
     box-sizing: border-box;
     margin:0px;
-    padding:0px;
-}
-header{
-  background-image: 
-    linear-gradient(rgba(255, 255, 255, 0.5), rgba(255, 255, 255, 0.5)), 
-    url("dest-janaki-mandir.jpg");
-        background-size: cover;
-    background-position:center;
-    min-height: 100vh;
-    text-align: center;
-    padding:20px;
-    color:aquamarine;
-  
-  background-size: cover;
-  background-position: center;
-}
+    padding:0px;}
 .hero-header{
-    background-size: cover;
-    background-position:center;
-    min-height: 100vh;
-    text-align: center;
-    padding:20px;
-    color:aquamarine;
-
-
+    padding: 10px;
+background-position: cover;
+background-position: center;
 }
 .navbar {
   display: flex;
   justify-content: flex-end;
   gap: 20px;
   padding: 10px 20px;
+  text-align: right;
+  align-items: flex-end;
 }
 
 .navbar a {
@@ -51,10 +33,14 @@ header{
 justify-content: center;
 margin:40px;
 }
+div{background-image: url("dest-janaki-mandir.jpg");
 .school-logo{
     height: 120px;
     width: auto;
     margin-bottom: 20px;
+    text-align: left;
+    text-shadow: grey;
+    align-items: left;
 }
 .school-title{
     font-size: 2.5;
@@ -67,4 +53,7 @@ margin:40px;
 .school-contact{
     font-size: 1rem;
     margin-top: 10px;
+}}
+.contact{
+    text-align:right;
 }

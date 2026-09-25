@@ -1,0 +1,12 @@
+  <header class="hero-header"></header>
+  <nav>
+    <a href="Aboutus.html">About us</a>
+    <a href="Academics.html">Academics</a>
+  </nav>
+   <div class="header-content">
+     <img src="school.jpg" alt="School Logo." class="school-logo">
+     <h1 class="school-title">CREATIVE CITY MONTESSORI</h1>
+     <h2 class="school-subtitle">MILLSAREA,JANAKPURDHAM</h2>
+     <p1 >contact:#79237,#80234</p1>
+    </div>
+    </header>
